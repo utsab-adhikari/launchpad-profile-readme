@@ -35,8 +35,7 @@ Currently focused on becoming a **power-packed IT Engineer** by combining **Web 
 
 ## 📚 Current Focus
 - 🔹 Building **production-level backend systems** (Express.js, Next.js)  
-- 🔹 Exploring **AI + Web Development** integrations  
-- 🔹 Preparing for **GSoC 2026** with open-source contributions  
+- 🔹 Exploring **AI + Web Development** integrations 
 - 🔹 Research in **AI, Web Security, and Educational Technology**  
 
 ---
