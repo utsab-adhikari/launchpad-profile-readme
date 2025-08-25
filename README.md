@@ -55,7 +55,7 @@ Currently focused on becoming a **power-packed IT Engineer** by combining **Web 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsab1adhikari&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsab-adhikari&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
