@@ -1,4 +1,4 @@
-# 🚀 Utsab Adhikari | Engineering Student & Developer  
+# Utsab Adhikari | Engineering Student & Developer  
 
 👋 Hi, I’m **Utsab Adhikari**, a passionate **IT Engineering Student** from Nepal.  
 I enjoy building **backend systems**, experimenting with **AI/ML**, and exploring **research opportunities**.  
